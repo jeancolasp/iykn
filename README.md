@@ -16,3 +16,8 @@ https://huggingface.co/datasets?task_categories=task_categories:text-to-3d&sort=
 https://github.com/axodox/unpaint
 
 https://github.com/axodox/axodox-machinelearning
+
+
+### People
+
+https://www.linkedin.com/in/p%C3%A9ter-major-9b00175b/
