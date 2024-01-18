@@ -26,3 +26,7 @@ https://www.linkedin.com/in/p%C3%A9ter-major-9b00175b/
 ### Running Stable Diff
 
 https://www.datacamp.com/tutorial/how-to-run-stable-diffusion
+
+### Tools
+
+https://www.gradio.app/guides/quickstart
