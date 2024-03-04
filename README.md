@@ -1,3 +1,8 @@
+
+## Progress:
+
+Listening to this atm: https://www.youtube.com/playlist?list=PLpM-Dvs8t0VZPZKggcql-MmjaBdZKeDMw
+
 # iykn
 
 https://bootcamp.uxdesign.cc/how-stable-diffusion-works-explained-for-non-technical-people-be6aa674fa1d
