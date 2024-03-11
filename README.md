@@ -2,7 +2,8 @@
 ## Progress:
 
 Listening to this atm: https://www.youtube.com/playlist?list=PLpM-Dvs8t0VZPZKggcql-MmjaBdZKeDMw
-https://www.youtube.com/watch?v=o7da9anmnMs
+
+- https://www.youtube.com/watch?v=o7da9anmnMs
 
 - https://www.youtube.com/watch?v=BzcBsTou0C0 (pretty good)
 - https://www.youtube.com/watch?v=w8yWXqWQYmU (numbers -> text Mnist python good)
